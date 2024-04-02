@@ -147,8 +147,8 @@ body{
 .site-banner .banner-area .author{
     margin: 0;
     position: absolute;
-    top: 20%;
-    left: 20%;
+    top: 50%;
+    left: 40%;
     transform: translate(-50%, -50%);
 }
 
